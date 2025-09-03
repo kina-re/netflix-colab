@@ -1,2 +1,2 @@
 # netflix-colab
-This repository contains the Netflix Movies and TV Shows dataset, Netflix Revenue and subscriber datasets, and academy award nominated movies dataset along with a single analysis notebook.
+Analysis of Netflix titles, revenue, subscribers, and award-nominated movies to explore what kind of shows and films Netflix should produce.
